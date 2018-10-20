@@ -1,8 +1,8 @@
 # Image Scraper
 
 Will allow us to use the Microsoft Bing Search API to scrape images from Bing Search. 
-Additionally, this web scaper is based the the following tutorial: 
-[Tutorial](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
+Additionally, this web scaper is based on the following tutorial: 
+[Tutorial Link](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
 
 
 ## Getting Started
